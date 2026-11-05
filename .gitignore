@@ -10,5 +10,7 @@ Thumbs.db
 node_modules/
 .env
 .env.local
+.env.*
+!.env.example
 
 .vercel
